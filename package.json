@@ -1,9 +1,9 @@
 {
-    "author": "Mark C Allen <mark@markcallen.com>",
+    "author": "Gautam Dhiman <gautam.dhiman@practo.com>",
     "name": "snssqs",
     "description": "sample sns sql system using nodejs and aws-sdk",
     "version": "0.1.0",
-    "homepage": "http://www.markcallen.com/",
+    "homepage": "",
     "main": "app",
     "engines": {
       "node": "0.10.x"
