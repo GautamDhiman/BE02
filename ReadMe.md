@@ -37,3 +37,5 @@ AWS_PROFILE=snssqs node publish.js
 ````
 AWS_PROFILE=snssqs node consume.js 
 ````
+## References
+* [AWS Dev Guide](https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/sns-examples.html)
